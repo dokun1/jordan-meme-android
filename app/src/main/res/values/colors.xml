@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/paletteFour</color>
+    <color name="colorPrimaryDark">@color/paletteOne</color>
+    <color name="colorAccent">@color/paletteTwo</color>
+
+    <color name="paletteOne">#1E152A</color>
+    <color name="paletteTwo">#63CCCA</color>
+    <color name="paletteThree">#4E6766</color>
+    <color name="paletteFour">#42858C</color>
+    <color name="paletteFive">#35393C</color>
+</resources>
